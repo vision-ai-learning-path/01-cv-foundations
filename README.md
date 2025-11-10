@@ -1,2 +1,18 @@
-# vision-ai-01-cv-foundations
-Stage 1 of an applied research series on vision-enabled AI agents: building robust image pipelines, experimenting with pretrained models, and preparing the ground for multimodal reasoning systems.
+# vision-ai / 01-cv-foundations
+
+Stage 1 of an applied research series on vision-enabled AI agents.
+
+This repository explores the foundational building blocks of computer vision, from image preprocessing and data augmentation to inference with modern pretrained models (CNNs, Vision Transformers, YOLO, etc.).
+
+The aim is to establish a solid technical base for future stages, where these capabilities will be integrated into autonomous, vision-aware AI agents capable of perception, reasoning, and multimodal interaction.
+
+## Learning Objectives
+
+1. Understand core computer vision workflows (preprocessing, inference, evaluation).
+2. Work hands-on with PyTorch or TensorFlow and OpenCV.
+3. Experiment with pretrained architectures (ResNet, ViT, YOLOv8).
+4. Build a modular inference pipeline that can later be extended by agentic reasoning systems.
+
+## Tech Stack
+
+`Pytho`n • `PyTorch` • `OpenCV` • `Hugging Face Transformers` • `Jupyter Notebooks`
